@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "express": "^4.17.2"
+  }
+}
