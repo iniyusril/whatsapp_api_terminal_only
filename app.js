@@ -62,7 +62,6 @@ conn.on("close", ({ reason, isReconnecting }) =>
 const app = express();
 const PORT = 8000;
 
-const SUCCESS_MESSAGE = "SERVER_ACK";
 
 app.use(express.json());
 app.use(
